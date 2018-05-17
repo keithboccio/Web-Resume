@@ -9,10 +9,14 @@ h2 {
 th {
 	font-size: %125;
 	text-align: left;
-	
+	padding: 10px;
 }
 td {
 	padding: 30px;
 }
-
-
+a:link {
+	color: blue;
+}
+a:visited {
+	color: purple;
+}
